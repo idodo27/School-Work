@@ -1,3 +1,3 @@
 # School-Work
 
-Different courses classworks
+Different courses's classworks
